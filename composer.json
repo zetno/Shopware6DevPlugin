@@ -1,6 +1,6 @@
 {
-  "name": "swag/plugin-skeleton",
-  "description": "Skeleton plugin",
+  "name": "zetno/dev-tools",
+  "description": "Dev Tools",
   "type": "shopware-platform-plugin",
   "license": "MIT",
   "autoload": {
@@ -11,8 +11,7 @@
   "extra": {
     "shopware-plugin-class": "Dev\\Dev",
     "label": {
-      "de-DE": "Skeleton plugin",
-      "en-GB": "Skeleton plugin"
+      "en-GB": "Dev tools"
     }
   }
 }
